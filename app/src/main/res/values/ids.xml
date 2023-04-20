@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="activiy_main" type="id" />
+    <item name="textView2" type="id" />
+    <item name="button_10" type="id" />
+</resources>
